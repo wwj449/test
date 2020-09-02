@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-02T10:04:39.682Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0" etag="IvnDMDpJler1qXK_fJdr" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-02T10:07:30.845Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36 SE 2.X MetaSr 1.0" etag="zqRZ6kb7_7GScPAHkyaL" version="13.6.6" type="github">
   <diagram id="JFG310dgM5JgxOvnkHz8" name="Page-1">
     <mxGraphModel dx="1159" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mZ5S8oPx8YVmJdACo5Ed-25" value="是否愿意改某期？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="mZ5S8oPx8YVmJdACo5Ed-25" value="是否愿意改为某某期？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="460" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TPgsrb7IbhU7XOlhmHNw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mZ5S8oPx8YVmJdACo5Ed-27" target="TPgsrb7IbhU7XOlhmHNw-20">
@@ -124,7 +124,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mZ5S8oPx8YVmJdACo5Ed-35" value="是否改期成功？（有可能这个动作还没执行被他人约了）" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="mZ5S8oPx8YVmJdACo5Ed-35" value="是否改期成功？（因为有可能这个动作还没执行之前就被他人约了）" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="630" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="mZ5S8oPx8YVmJdACo5Ed-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mZ5S8oPx8YVmJdACo5Ed-37" target="mZ5S8oPx8YVmJdACo5Ed-42" edge="1">
